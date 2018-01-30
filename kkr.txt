@@ -1,0 +1,23 @@
+ nov 1st -  working on ios app demo
+ nov 2nd -  Installed ios demo app in ios device and preparing for demo.
+ nov 3rd -  went to client location(continental) for giving demo on iOS app.
+ nov 6th -  asked required inputs for ios demo app to client(continental)
+ nov 7th -  R and D on bluetooth implemenatation in ios
+ nov 8th -  R and D on bluetooth implemenatation in ios
+ nov 9th -  R and D on bluetooth implemenatation in ios
+ nov 10th - R and D on bluetooth implemenatation in ios
+ nov 13th - R and D on bluetooth implemenatation in ios
+ nov 14th - R and D on bluetooth implemenatation in ios
+ nov 15th - R and D on bluetooth implemenatation in ios
+ nov 16th - R and D on bluetooth implemenatation in ios
+ nov 17th - R and D on bluetooth implemenatation in ios
+ nov 20th - R and D on bluetooth implemenatation in ios
+ nov 21st - R and D on bluetooth implemenatation in ios
+ nov 22nd - R and D on bluetooth implemenatation in ios
+ nov 23rd - absent
+ nov 24th - absent
+ nov 27th - went to client location for project discussion
+ nov 28th - Done estimations for new project.
+ nov 29th - absent
+ nov 30th - R and D on payment integration in ios.
+ 
